@@ -1,0 +1,41 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .loading {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  h2 {
+    color: #333;
+    text-align: center;
+  }  
+  
+  img {
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto; 
+    display: block;
+    margin-bottom: 10px; 
+  }
+  
+  
+  p {
+    color: #666;
+  }
+  
+  h3 {
+    color: #444;
+    margin-top: 15px; 
+  }
+  
+  .year,
+  .runningTimeInMinutes,
+  .titleType {
+    font-weight: bold;
+  }
+  
+  
